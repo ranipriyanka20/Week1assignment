@@ -2,7 +2,7 @@
 Each week, you'll receive a feedback file in GitHub showing a final grade and any specific comments on your assignment, including why points (if any) were deducted.
 
 
-## Final Score: 4/10 (-5 for late submission)
+## Final Score: 9/10 
 
 ## Multiple Choice:
 _Did you complete and submit the multiple choice part of the assignment?_
