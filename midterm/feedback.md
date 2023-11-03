@@ -1,7 +1,7 @@
 # Midterm Feedback
 The midterm feedback will be very similar to what you receive on a weekly basis for the homework, but more specific for each problem in this case.
 
-## Final Score: 25/50
+## Final Score: 30/50
 
 
 ### Step 1: Priest Score Calculation
@@ -28,6 +28,7 @@ The midterm feedback will be very similar to what you receive on a weekly basis 
   * **(-1 pts) I think you needed to handle convering hospital names to upper case**
 * **(-2 pts) - No docstring**
 * **(-3 pts) - No doctests**
+* **(+5 pts) -- Updated 11/3 - it was confusing because you had this fucntion defined in two places.**
 
 **Again, this code was in the wrong place.  It's very hard to grade something that's disorganized like this**
 
